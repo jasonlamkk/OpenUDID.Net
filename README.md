@@ -1,4 +1,3 @@
-
 <h4>Who is behind OpenUDID</h4>
 
 <p>The project was initiated by Jason Lam (co-founder WaveSpread Technology Limited) on 15/4/2012</p>
@@ -47,9 +46,10 @@ OpenUDID for iOS was initiated by Yaan Lechelle on 8/28/11 to replace the deprec
 
 <h4>Context</h4>
 
-<p>If you・re not already familiar with UDID・s, it・s a critical tool for analytic or CRM purposes. A developer could use UDID・s as a means to track how much time a user spent in his free app before upgrading to the paid version. UDID・s are also helpful for tracking the source of a download when advertising on an ad network. This is a fairly universal need in a thriving ecosystem: developers need the traceability from clicks to downloads to ensure that they pay the right price for their promotion. Proper tracking and funnel conversion is what has made the web a better place, with healthy competition and quantifiable metrics.</p>
+<p>If you're not already familiar with UDID's, it's a critical tool for analytic or CRM purposes. A developer could use UDID's as a means to track how much time a user spent in his free app before upgrading to the paid version. UDID's are also helpful for tracking the source of a download when advertising on an ad network. This is a fairly universal need in a thriving ecosystem: developers need the traceability from clicks to downloads to ensure that they pay the right price for their promotion. Proper tracking and funnel conversion is what has made the web a better place, with healthy competition and quantifiable metrics.</p>
 
-<p>In the wake of Apple・s decision to deprecate UDID, some ad networks have already introduced their own proprietary solutions. The main motivation here was to find a UDID replacement not owned by any single provider. It is easy to foresee a fragmented market where UDID management is operated by multiple providers with no cooperation between them. This open source initiative is to enable a better solution for thousands of other mobile app developers.</p>
+<p>In the wake of Apple's decision to deprecate UDID;
+ and the absent of UDID in windows desktop platform, some ad networks have already introduced their own proprietary solutions. The main motivation here was to find a UDID replacement not owned by any single provider. It is easy to foresee a fragmented market where UDID management is operated by multiple providers with no cooperation between them. This open source initiative is to enable a better solution for thousands of other mobile app developers.</p>
 
 <h5>Version History</h5>
 
