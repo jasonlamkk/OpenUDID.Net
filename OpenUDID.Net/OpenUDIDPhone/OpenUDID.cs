@@ -67,5 +67,18 @@ namespace OpenUDIDPhone
             error = _lastError;
             return v;
         }
+        public static String CorpIdentifier;
+        public static String CorpValue
+        {
+            get
+            {
+                return  MD5Core.GetHashString(String.Format("{0}.{1}", CorpIdentifier, value));
+            }
+        }
+        public static String GetCorpUDID(String corpIdentifier)
+        {
+            CorpIdentifier = corpIdentifier;
+            return CorpValue;
+        }
     }
 }

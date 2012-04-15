@@ -25,6 +25,7 @@ namespace PhoneAppTester
         private void PhoneApplicationPage_Loaded(object sender, RoutedEventArgs e)
         {
             txtOldDeviceId.Text = OpenUDID.OldDeviceId;
+            txtCorpUDID.Text = OpenUDID.GetCorpUDID("com.wavespread");// unique company domain
             txtOpenUDID.Text = OpenUDID.value;
         }
     }

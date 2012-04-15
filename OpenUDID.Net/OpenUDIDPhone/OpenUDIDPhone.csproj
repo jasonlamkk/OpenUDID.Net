@@ -49,7 +49,6 @@
     <Reference Include="System.Net" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="MD5.cs" />
     <Compile Include="MD5Managed.cs" />
     <Compile Include="OpenUDID.cs" />
