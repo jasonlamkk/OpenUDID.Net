@@ -1,0 +1,5 @@
+C:\Users\jason\documents\visual studio 2010\Projects\OpenUDID.Net\OpenUDIDPhone\Bin\Debug\OpenUDIDPhone.dll
+C:\Users\jason\documents\visual studio 2010\Projects\OpenUDID.Net\OpenUDIDPhone\Bin\Debug\OpenUDIDPhone.pdb
+C:\Users\jason\documents\visual studio 2010\Projects\OpenUDID.Net\OpenUDIDPhone\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jason\documents\visual studio 2010\Projects\OpenUDID.Net\OpenUDIDPhone\obj\Debug\OpenUDIDPhone.dll
+C:\Users\jason\documents\visual studio 2010\Projects\OpenUDID.Net\OpenUDIDPhone\obj\Debug\OpenUDIDPhone.pdb
