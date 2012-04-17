@@ -1,6 +1,7 @@
 <h4>Who is behind OpenUDID</h4>
 
-<p>The project was initiated by Jason Lam (co-founder WaveSpread Technology Limited) on 15/4/2012</p>
+<p>The project OpenUDID for iOS was initiated by Yaan Lechelle on 8/28/11 and 
+this .Net / SilverLight port was created by Jason Lam (co-founder WaveSpread Technology Limited) on 15/4/2012</p>
 
 <ul>
 <li><a href="https://github.com/jasonlamkk">https://github.com/jasonlamkk</a></li>
