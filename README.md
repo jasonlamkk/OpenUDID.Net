@@ -8,7 +8,7 @@ this OpenUDID.Net is the CSharp.Net and SilverLight port created by Jason Lam (c
 <p>OpenUDID.JS is JavaScript OpenUDID client side script created by Jason Lam with flash and JavaScript on 19/4/2012.  
 </p>
 
-<h4><b>NEW</b>What is OpenUDID.JS</h4>
+<h4><b>*NEW*</b> What is OpenUDID.JS</h4>
 <p>
 OpenUDID.JS is a new cross-domain unique idendifier solution beyond the development plan of OpenUDID.
 although removable, it is much more persistent than traditional browser cookies and it keep the same 
@@ -19,6 +19,9 @@ which link up all browsering activities for every web user very useful for centr
 
 </p>
 
+<p>OpenUDID.JS shall be branched as a independent project. but since it has only a single HTML file, this will be done later </p>
+
+<hr/>
 <ul>
 <li><a href="https://github.com/jasonlamkk">https://github.com/jasonlamkk</a></li>
 </ul><h4>Master Branches &amp; Contributors</h4>
