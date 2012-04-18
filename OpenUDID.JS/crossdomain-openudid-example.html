@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>crossdomain-openudid.html</title>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script> 
+<script>
+function UDIDfromHash(){
+	var h = self.location.hash;
+	if(h.indexOf('pipeOpenUDID_')){
+		var udid = h.substr(h.indexOf('pipeOpenUDID_')+'pipeOpenUDID_'.length);
+		try{
+			alert("OpenUDID : "+udid);
+			//do something with udid
+			//parent.openudid_found(udid);
+			return true;
+		}catch(ex){
+			alert(ex);
+		}
+		
+	}
+	return false;
+}
+$(function(){
+	if(!UDIDfromHash()){
+	$(window).bind('hashchange',function(){
+		///alert(self.location.hash);
+		UDIDfromHash();
+	});
+	}
+});
+</script>
+</head>
+
+<body>
+<div id="" style="overflow:hidden; width:1px; height:1px; margin:2px;">
+<iframe id="iframe" src="http://openudid.net/js/openudid.php"></iframe>
+</div>
+</body>
+</html>
