@@ -1,7 +1,23 @@
-<h4>Who is behind OpenUDID</h4>
+<h4>Who is behind OpenUDID.NET</h4>
 
 <p>The project OpenUDID for iOS was initiated by Yaan Lechelle on 8/28/11 and 
-this .Net / SilverLight port was created by Jason Lam (co-founder WaveSpread Technology Limited) on 15/4/2012</p>
+this OpenUDID.Net is the CSharp.Net and SilverLight port created by Jason Lam (co-founder WaveSpread Technology Limited) on 15/4/2012</p>
+
+<h4>Who is behind OpenUDID.JS</h4>
+
+<p>OpenUDID.JS is JavaScript OpenUDID client side script created by Jason Lam with flash and JavaScript on 19/4/2012.  
+</p>
+
+<h4><b>NEW</b>What is OpenUDID.JS</h4>
+<p>
+OpenUDID.JS is a new cross-domain unique idendifier solution beyond the development plan of OpenUDID.
+although removable, it is much more persistent than traditional browser cookies and it keep the same 
+idendifier per device (or more accurately per user account of Operating System).
+
+It demonstrate the possibility of generating a single cross-browser + cross-domain unique idendifier per machine,
+which link up all browsering activities for every web user very useful for centralized behavioral analysis.
+
+</p>
 
 <ul>
 <li><a href="https://github.com/jasonlamkk">https://github.com/jasonlamkk</a></li>
