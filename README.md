@@ -1,7 +1,7 @@
 <h4>Who is behind OpenUDID.NET</h4>
 
 <p>The project OpenUDID for iOS was initiated by Yaan Lechelle on 8/28/11 and 
-this OpenUDID.Net is the CSharp.Net and SilverLight port created by Jason Lam (co-founder <a href="">WaveSpread Technology Limited) on 15/4/2012</p>
+this OpenUDID.Net is the CSharp.Net and SilverLight port created by Jason Lam (co-founder <a href="http://wavespread.com/mobile-apps/openudid-net.html">WaveSpread Technology Limited) on 15/4/2012</p>
 
 <h4>About OpenUDID.JS</h4>
 
@@ -12,8 +12,6 @@ which link up all browsering activities for every web user very useful for centr
 
 <p>moved to <a href="https://github.com/jasonlamkk/OpenUDID.Web">OpenUDID.Web</a> as it is only a by-product of this project, the architecture and coding is not very relevant</p>
 </p>
-
-<p>OpenUDID.JS shall be branched as a independent project. but since it has only a single HTML file, this will be done later </p>
 
 <hr/>
 <ul>
