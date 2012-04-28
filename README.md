@@ -21,6 +21,7 @@ which link up all browsering activities for every web user very useful for centr
 <ul>
 <li>Windows Phone 7 / Windows Desktop code: <a href="https://github.com/jasonlamkk/OpenUDID.Net">https://github.com/jasonlamkk/OpenUDID.Net</a></li>
 <li>iOS / MacOS code: <a href="https://github.com/ylechelle/OpenUDID">https://github.com/ylechelle/OpenUDID</a></li>
+<li>Android code (2012 update): <a href="https://github.com/jasonlamkk/OpenUDID">https://github.com/jasonlamkk/OpenUDID</a></li>
 <li>Android code: <a href="https://github.com/vieux/OpenUDID">https://github.com/vieux/OpenUDID</a></li>
 </ul>
 
